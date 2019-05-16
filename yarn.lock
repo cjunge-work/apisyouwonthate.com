@@ -1322,19 +1322,19 @@
     signedsource "^1.0.0"
     yargs "^9.0.0"
 
-"@mdx-js/loader@^1.0.18":
-  version "1.0.18"
-  resolved "https://registry.yarnpkg.com/@mdx-js/loader/-/loader-1.0.18.tgz#c7a6ddd804e535425ae0f6b2d816a9b7a43e691b"
-  integrity sha512-dvuZCeEVqeF3UmWnQN6XQD6OEYwCkablZhRAhXNUfWuguUbGBIy3d1GtQB5NtZG9CCaeR7kRDNmMO2lmSFPXeg==
+"@mdx-js/loader@^1.0.19":
+  version "1.0.19"
+  resolved "https://registry.yarnpkg.com/@mdx-js/loader/-/loader-1.0.19.tgz#fbb7e74961801be6e1bf9fd839e0d30075d6e57a"
+  integrity sha512-u/kA5o0ceQjfdrUPYhtH0QN7VV71ravOtVBqK0VWq3vuDodSNt1ge6srOE6JQwtCr/qjBm+M5bjQKmrLziTlFw==
   dependencies:
-    "@mdx-js/mdx" "^1.0.18"
+    "@mdx-js/mdx" "^1.0.19"
     "@mdx-js/react" "^1.0.16"
     loader-utils "^1.1.0"
 
-"@mdx-js/mdx@^1.0.18":
-  version "1.0.18"
-  resolved "https://registry.yarnpkg.com/@mdx-js/mdx/-/mdx-1.0.18.tgz#42bb35e36b7566aed88c5c11a381705f974bc03b"
-  integrity sha512-KO2odMrZC77Yf9bhL0Qu0GtvVivVV6dL5DWJeuMeSkc9wkL9fBT06re67TfgeJ37R+lyslkG+uPUahIj4/SOoQ==
+"@mdx-js/mdx@^1.0.19":
+  version "1.0.19"
+  resolved "https://registry.yarnpkg.com/@mdx-js/mdx/-/mdx-1.0.19.tgz#ee5323fb2f00f8910b64d58126f54c08d61b3e73"
+  integrity sha512-li3zrfEY7htShibDeyVE9GRi7o6vA1QnBg9f07anNNa0689GPxOF9eIRqkj5k3ecDnilHURPyw74k1430hRTVw==
   dependencies:
     "@babel/helper-plugin-utils" "^7.0.0"
     "@babel/plugin-syntax-jsx" "^7.2.0"
@@ -4759,10 +4759,10 @@ eslint-config-react-app@^3.0.0:
   dependencies:
     confusing-browser-globals "^1.0.6"
 
-eslint-config-react-app@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-react-app/-/eslint-config-react-app-4.0.0.tgz#1651f44b3830d863817af6ebed0916193aa870c3"
-  integrity sha512-SeFxaI+0NAzWPFAI9AT+Vp9Xe2u5RCnn0JVEXkE338HgoPujc38Bc0upCJw4BWmavvIN/ODmE6EuzHoAEn3ozw==
+eslint-config-react-app@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/eslint-config-react-app/-/eslint-config-react-app-4.0.1.tgz#23fd0fd7ea89442ef1e733f66a7207674b23c8db"
+  integrity sha512-ZsaoXUIGsK8FCi/x4lT2bZR5mMkL/Kgj+Lnw690rbvvUr/uiwgFiD8FcfAhkCycm7Xte6O5lYz4EqMx2vX7jgw==
   dependencies:
     confusing-browser-globals "^1.0.7"
 
@@ -10471,10 +10471,10 @@ prepend-http@^2.0.0:
   resolved "https://registry.yarnpkg.com/prepend-http/-/prepend-http-2.0.0.tgz#e92434bfa5ea8c19f41cdfd401d741a3c819d897"
   integrity sha1-6SQ0v6XqjBn0HN/UAddBo8gZ2Jc=
 
-prettier@^1.17.0:
-  version "1.17.0"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.17.0.tgz#53b303676eed22cc14a9f0cec09b477b3026c008"
-  integrity sha512-sXe5lSt2WQlCbydGETgfm1YBShgOX4HxQkFPvbxkcwgDvGDeqVau8h+12+lmSVlP3rHPz0oavfddSZg/q+Szjw==
+prettier@^1.17.1:
+  version "1.17.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.17.1.tgz#ed64b4e93e370cb8a25b9ef7fef3e4fd1c0995db"
+  integrity sha512-TzGRNvuUSmPgwivDqkZ9tM/qTGW9hqDKWOE9YHiyQdixlKbv7kvEqsmDPrcHJTKwthU774TQwZXVtaQ/mMsvjg==
 
 pretty-bytes@^4.0.2:
   version "4.0.2"
