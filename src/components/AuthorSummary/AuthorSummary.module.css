@@ -2,10 +2,16 @@
   margin-bottom: 3rem;
 }
 
+.header {
+  display: flex;
+}
+
 .headshotContainer {
   border: 1px solid transparent;
   border-radius: 100%;
   margin-right: 1rem;
+  height: 65px;
+  width: 65px;
 }
 
 .socialLinks {
