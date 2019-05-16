@@ -1,0 +1,32 @@
+.container {
+  margin-bottom: 3rem;
+}
+
+.headshotContainer {
+  border: 1px solid transparent;
+  border-radius: 100%;
+  margin-right: 1rem;
+}
+
+.socialLinks {
+  display: flex;
+  font-size: small;
+  color: #222;
+}
+
+.socialLinks li {
+  margin-right: 0.75rem;
+}
+
+.socialLinks li a {
+  display: flex;
+  align-items: center;
+}
+
+.socialLinks li a:hover {
+  text-decoration: none;
+}
+
+.socialLinks li a svg {
+  margin-right: 0.25rem;
+}

@@ -13,7 +13,7 @@ const Header = ({ siteTitle }) => (
     <Container>
       <Row>
         <Col>
-          <header>
+          <header className={classes.header}>
             <h1 className={classes.title}>
               <Link to="/">{`APIs You Won't Hate`}</Link>
             </h1>
